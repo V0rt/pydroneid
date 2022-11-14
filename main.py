@@ -1,10 +1,6 @@
-import uhd
-import scope
-import pmt
 import numpy as np
 from matplotlib import pyplot as plt
 from scipy import signal
-import commpy
 
 cp_lengths = [80, 72, 72, 72, 72, 72, 72, 80]
 
